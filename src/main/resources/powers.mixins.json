@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.starmarine06.powers.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
