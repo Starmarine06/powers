@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "powers:item/cloud_item"
+    "layer0": "minecraft:item/gold_ingot"
   }
 }

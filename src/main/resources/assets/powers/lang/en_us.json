@@ -1,3 +1,4 @@
 {
-  "item.powers.cloud_item": "Cloud"
+  "item.powers.cloud": "Cloud",
+  "item.powers.raw_cloud_item": "Raw Cloud"
 }
